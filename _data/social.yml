@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://wdcom6@naver.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: Notion
+  url: https://www.notion.so/wdcom/PORTFOLIO_Alice-499efb7347b544539bcace11d31e6c59?pvs=4
+  icon: fab fa-notion
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/Hyejin6/Hyejin6.github.io
   icon: fab fa-github
