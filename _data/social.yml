@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: Notion
   url: https://www.notion.so/wdcom/PORTFOLIO_Alice-499efb7347b544539bcace11d31e6c59?pvs=4
-  icon: fab fa-notion
+  icon: fa-thin fa-id-card-clip
 - title: GitHub
   url: https://github.com/Hyejin6/Hyejin6.github.io
   icon: fab fa-github
